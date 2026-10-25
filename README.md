@@ -1,88 +1,101 @@
-# Vijay | AI/ML Engineer & Product-Focused Builder
+# Vijay Sai | AI/ML Engineer | Data & Product Builder
 
-Hi, I'm Vijay 👋
+Hi, I’m Vijay Sai 👋
 
-I am a software engineer and AI/ML enthusiast with hands-on experience building intelligent systems, automation tools, and data-driven products across business, operations, and customer-facing workflows.
+I am a software engineer and AI/ML-focused builder passionate about creating intelligent solutions that solve real business and operational problems. My work blends machine learning, automation, data analysis, and product thinking to deliver impactful applications across business, operations, and digital transformation.
 
-My work focuses on combining machine learning, generative AI, and real-world product thinking to solve practical business problems.
+LinkedIn: https://www.linkedin.com/in/nuni-v-vijay-sai/
+GitHub: https://github.com/Vijay286-sket
+
+## Skills
+
+- Artificial Intelligence & Machine Learning
+- Python
+- Data Science & Analytics
+- Machine Learning Model Development
+- Deep Learning
+- Computer Vision
+- NLP / Generative AI / RAG
+- Predictive Modeling
+- Business Intelligence & Optimization
+- Data Cleaning, EDA, Feature Engineering
+- SQL
+- JavaScript
+- React
+- Django
+- Flask
+- Node.js
+- Git & GitHub
+- Problem Solving & Product Development
+- Workflow Automation
 
 ## About Me
 
-- AI/ML and data-driven product development
-- End-to-end project work from concept to deployed prototype
-- Strong interest in automation, optimization, analytics, and business intelligence
-- Experience building solutions using Python, ML models, NLP/RAG systems, and full-stack web applications
+I enjoy building practical AI-powered systems that improve efficiency, support decision-making, and reduce manual effort. My experience spans:
 
-## Core Skills
+- AI/ML projects for business optimization
+- predictive analytics and decision-support systems
+- RAG-based knowledge assistants and enterprise AI tools
+- automation for job and business workflows
+- full-stack product development with data-driven features
+- applied analytics across domains like marketing, logistics, healthcare, and operations
 
-- Python, JavaScript, React, Node.js, Django, Flask
-- Machine Learning, Predictive Modeling, Deep Learning
-- Natural Language Processing (NLP), RAG, Knowledge Assistants
-- Data Analysis, EDA, Model Evaluation, Feature Engineering
-- API development, automation workflows, business process optimization
-- Git, GitHub, product prototyping, problem solving
+## Professional Focus
+
+- AI/ML product development
+- applied data science and analytics
+- business automation and process optimization
+- generative AI and knowledge retrieval systems
+- building end-to-end prototypes that connect models to user value
 
 ## Featured Projects
 
-### 1) AI/ML Job Application Automation Tool
-A workflow-focused automation project designed to simplify and accelerate job application processes using AI-driven logic and intelligent screening.
+### AI/ML Job Application Automation Tool
+An AI-focused workflow automation project designed to streamline and optimize job application processing.
 
-### 2) AI-Powered Ad Optimization with Predictive Models and Adaptive Bidding Strategies
-A marketing intelligence initiative combining predictive modeling and adaptive bidding strategies to improve digital ad performance and ROI.
+### AI-Powered Ad Optimization with Predictive Models and Adaptive Bidding Strategies
+A data-driven advertising optimization project using predictive modeling and adaptive bidding logic to improve campaign performance and ROI.
 
-### 3) AI-Powered Logistics Optimization with ROI Simulation
-An optimization-driven project focused on logistics planning, cost-efficiency analysis, and ROI-based decision support.
+### AI-Powered Logistics Optimization with ROI Simulation
+A business optimization project focused on logistics planning, forecasting, and cost-effectiveness analysis.
 
-### 4) RAG-Based Enterprise Knowledge Assistant
-A knowledge assistant built using retrieval-augmented generation (RAG) to support enterprise information access, policy compliance, and internal knowledge retrieval.
+### RAG-Based Enterprise Knowledge Assistant
+A retrieval-augmented generation solution for enterprise knowledge access, policy support, and information retrieval.
 
-### 5) Autonomous Business Ops Agent
-An intelligent operations assistant designed to streamline business workflows, automate repetitive tasks, and support operational decision-making.
+### Autonomous Business Ops Agent
+An AI-powered operations assistant aimed at automating business workflows and improving decision support.
 
-### 6) Job Management Application
-A productivity and workflow tool focused on managing job-related tasks, assignments, and operational tracking.
+### Deep Learning & Computer Vision Projects
+Includes CNN-based facial expression detection and other ML/computer vision experiments exploring model training, evaluation, and deployment-ready prototypes.
 
-### 7) Fraud / Security and Data Science Projects
-Includes phishing detection, diabetes prediction, suicide rate analysis, and other applied ML/data science experiments demonstrating problem-solving across diverse domains.
+### Data Science & Applied ML Projects
+Includes phishing detection, diabetes prediction, suicide rate analysis, and other domain-based ML projects demonstrating a broad analytical skill set.
 
-### 8) Deep Learning / Computer Vision
-Projects include CNN-based facial expression detection and other model-building exercises focused on image understanding and classification.
+## Core Technical Stack
 
-## Work Experience Style Highlights
-
-My project portfolio reflects experience in:
-
-- AI-powered business automation
-- Applied machine learning for decision support
-- Data analytics and forecasting
-- Generative AI and enterprise knowledge systems
-- Product development and workflow optimization
-- Full-stack application development for real-world use cases
+- Languages: Python, JavaScript, SQL
+- Frameworks & Tools: Django, Flask, React, Node.js
+- ML & AI: scikit-learn, TensorFlow/Keras, deep learning, predictive modeling, NLP, RAG
+- Data: Pandas, NumPy, exploratory data analysis, model evaluation
+- DevOps/Workflow: Git, GitHub, project prototyping, automation
 
 ## Why I Build
 
-I enjoy turning ideas into usable products that improve efficiency, reduce manual effort, and create measurable value through intelligent systems.
+I am motivated by the opportunity to turn complex data and AI ideas into real-world solutions that create measurable value. My goal is to keep building systems that combine technical depth with business impact.
 
-## GitHub Snapshot
+## GitHub Overview
 
-This profile showcases a mix of:
+This profile reflects a mix of:
 
-- AI/ML experimentation
-- Business operations automation
-- Product-oriented application development
-- Data science and analytics projects
-- Full-stack and backend implementation work
-
-## Current Focus
-
-- Generative AI and RAG-based enterprise tools
-- Applied machine learning for business and operational outcomes
-- Building practical, scalable AI-driven products
-- Improving workflow automation and decision intelligence
+- AI/ML experimentation and implementation
+- business process automation
+- performance and optimization projects
+- analytics-driven decision support
+- product-oriented software development
 
 ## Connect
 
+- LinkedIn: https://www.linkedin.com/in/nuni-v-vijay-sai/
 - GitHub: https://github.com/Vijay286-sket
-- LinkedIn: https://www.linkedin.com/in/vijay286-sket
 
-Thank you for visiting my profile. I am always open to opportunities where I can build impactful solutions using AI, data, and software engineering.
+Thank you for visiting my profile. I’m always excited to collaborate on impactful AI, data, and product-building work.
